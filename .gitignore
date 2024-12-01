@@ -1,7 +1,7 @@
 # Sensitive files
 config.plist
 OpenAIManager.swift
-
+nessie-ios-sdk/
 # IDE/project files
 *.xcodeproj
 *.xcworkspace
